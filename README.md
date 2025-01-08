@@ -1,0 +1,3 @@
+# github_pull_request_template
+
+GitHubのpullリクエストテンプレートの仕組みがよくわからんので実際にやってみる
